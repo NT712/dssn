@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Goomba.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Goomb instance 10000" x="0" y="0" width="461" height="500"/>
+	<SubTexture name="Goomb instance 10001" x="0" y="0" width="461" height="500"/>
+	<SubTexture name="Goomb instance 10002" x="0" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10003" x="0" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10004" x="461" y="0" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10005" x="461" y="0" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10006" x="0" y="1000" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10007" x="0" y="1000" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10008" x="447" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10009" x="447" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10010" x="447" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10011" x="447" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10012" x="447" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10013" x="447" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+	<SubTexture name="Goomb instance 10014" x="447" y="500" width="447" height="500" frameX="0" frameY="0" frameWidth="461" frameHeight="500"/>
+</TextureAtlas>
